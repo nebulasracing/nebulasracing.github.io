@@ -1,2 +1,0 @@
-# nebulasracing.github.io
-nebulasracing
